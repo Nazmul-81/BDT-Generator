@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891699236013",
+    "project_id": "bdt-generator",
+    "storage_bucket": "bdt-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891699236013:android:c4f40553a0b59349d10a24",
+        "android_client_info": {
+          "package_name": "com.nazmul81.bdt_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891699236013-ajotpj2787ugpig9eh5docsj5npflcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAziobZ16qIGW4GOSxuIlD-pXOQ9ms11sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891699236013-ajotpj2787ugpig9eh5docsj5npflcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
